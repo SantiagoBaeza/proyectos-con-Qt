@@ -20,7 +20,13 @@ Este repositorio contiene un listado organizado de mis proyectos desarrollados c
 - 📅 Fecha: Diciembre 2025
 - 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Primer-gr-fico-con-QCustomPlot/tree/main)  
 - 🛠️ Tecnologías: Qt, (C++), señales y slots, layouts adaptables, DLL, QCustomPlot.
-- 📄 Descripción: Una graficadora basica con opcion de graficar dos funciones: sen(x) o cos(x) 
+- 📄 Descripción: Una graficadora basica con opcion de graficar dos funciones: sen(x) o cos(x)
+
+###02. Calculadora gráfica en Qt (muParser + QCustomPlot)
+- 📅 Fecha: Diciembre 2025  
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Calculadora-gr-fica-con-muParser-y-QCustomPlot/tree/main)  
+- 🛠️ Tecnologías: Qt (C++), señales y slots, muParser, QCustomPlot, método de bisección.  
+- 📋 Descripción: Aplicación que permite ingresar funciones matemáticas, graficarlas en un rango definido y buscar hasta dos raíces mediante el método de bisección. Se integraron las librerías externas **muParser** y **QCustomPlot** mediante DLL, y se configuró el proyecto para enlazarlas correctamente. La interfaz incluye campos de entrada, botones interactivos y un gráfico dinámico que se ajusta automáticamente al contenido.
 
 ---
 
