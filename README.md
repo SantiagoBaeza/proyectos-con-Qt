@@ -17,10 +17,10 @@ Este repositorio contiene un listado organizado de mis proyectos desarrollados c
 - 📄 Descripción: Calculadora básica que permite realizar operaciones aritméticas entre dos números. Incluye manejo de errores en división por cero mediante QMessageBox, y uso de layouts para que la interfaz se adapte al tamaño de la ventana.  
 
 ### 01. Graficadora Basica
-- 📅 Fecha: ...
+- 📅 Fecha: Diciembre 2025
 - 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Primer-gr-fico-con-QCustomPlot/tree/main)  
-- 🛠️ Tecnologías: ...
-- 📄 Descripción: ...  
+- 🛠️ Tecnologías: Qt, (C++), señales y slots, layouts adaptables, DLL, QCustomPlot.
+- 📄 Descripción: Una graficadora basica con opcion de graficar dos funciones: sen(x) o cos(x) 
 
 ---
 
