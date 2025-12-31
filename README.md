@@ -18,4 +18,10 @@ Este repositorio contiene un listado organizado de mis proyectos desarrollados c
 
 ---
 
+## Objetivo
+Este repositorio funciona como índice de proyectos desarrollados con Qt.
+Cada sección enlaza a repositorios específicos donde se encuentra el código, la interfaz gráfica y la documentación técnica
+
+---
+
 > 🧩 Estos espacios están en construcción y se actualizan de forma frecuente.
