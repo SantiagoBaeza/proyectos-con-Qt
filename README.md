@@ -28,6 +28,12 @@ Este repositorio contiene un listado organizado de mis proyectos desarrollados c
 - 🛠️ Tecnologías: Qt (C++), señales y slots, muParser, QCustomPlot, método de bisección.  
 - 📋 Descripción: Aplicación que permite ingresar funciones matemáticas, graficarlas en un rango definido y buscar hasta dos raíces mediante el método de bisección. Se integraron las librerías externas **muParser** y **QCustomPlot** mediante DLL, y se configuró el proyecto para enlazarlas correctamente. La interfaz incluye campos de entrada, botones interactivos y un gráfico dinámico que se ajusta automáticamente al contenido.
 
+### 03. Registro de dron en Qt (lectura de .DAT + gráficos)
+- 📅 Fecha: Diciembre 2025  
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Registro-y-an-lisis-de-datos-de-dron-.DAT-/tree/main)  
+- 🛠️ Tecnologías: Qt (C++), señales y slots, QCustomPlot, lectura de archivos binarios, interpolación, integración numérica.  
+- 📄 Descripción: Aplicación que permite abrir archivos binarios `.DAT` con registros de vuelo de un dron, graficar posición X, posición Y y nivel de batería en función del tiempo, calcular energía consumida en un intervalo y obtener valores interpolados en un instante específico. Se incluye un archivo de ejemplo `registro_dron.dat` para probar la aplicación sin necesidad de generar datos propios.
+
 ---
 
 ## Objetivo
