@@ -22,7 +22,7 @@ Este repositorio contiene un listado organizado de mis proyectos desarrollados c
 - 🛠️ Tecnologías: Qt, (C++), señales y slots, layouts adaptables, DLL, QCustomPlot.
 - 📄 Descripción: Una graficadora basica con opcion de graficar dos funciones: sen(x) o cos(x)
 
-###02. Calculadora gráfica en Qt (muParser + QCustomPlot)
+### 02. Calculadora gráfica en Qt (muParser + QCustomPlot)
 - 📅 Fecha: Diciembre 2025  
 - 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Calculadora-gr-fica-con-muParser-y-QCustomPlot/tree/main)  
 - 🛠️ Tecnologías: Qt (C++), señales y slots, muParser, QCustomPlot, método de bisección.  
