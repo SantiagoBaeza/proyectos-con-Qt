@@ -34,6 +34,12 @@ Este repositorio contiene un listado organizado de mis proyectos desarrollados c
 - 🛠️ Tecnologías: Qt (C++), señales y slots, QCustomPlot, lectura de archivos binarios, interpolación, integración numérica.  
 - 📄 Descripción: Aplicación que permite abrir archivos binarios `.DAT` con registros de vuelo de un dron, graficar posición X, posición Y y nivel de batería en función del tiempo, calcular energía consumida en un intervalo y obtener valores interpolados en un instante específico. Se incluye un archivo de ejemplo `registro_dron.dat` para probar la aplicación sin necesidad de generar datos propios.
 
+### 04. Calculadora de funciones en Qt (muParser + QCustomPlot)
+- 📅 Fecha: Diciembre 2025  
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Calculadora-de-funciones-en-Qt-muParser-QCustomPlot-/tree/main)  
+- 🛠️ Tecnologías: Qt (C++), señales y slots, muParser, QCustomPlot, integración numérica, operaciones entre funciones.  
+- 📄 Descripción: La aplicación permite graficar dos funciones matemáticas, calcular el área bajo una curva mediante el método del trapecio y realizar operaciones entre funciones (suma, resta, multiplicación y división).
+
 ---
 
 ## Objetivo
